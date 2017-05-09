@@ -1,3 +1,3 @@
 # Gradle-Publish
 
-###Upload to bintray for personal use.
+Upload to bintray for personal use.
